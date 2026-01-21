@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+        <AssemblyName>OddBit.FastConsole.GameExample</AssemblyName>
+        <RootNamespace>OddBit.FastConsole.GameExample</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\OddBit.FastConsole.GameEngine\OddBit.FastConsole.GameEngine.csproj" />
+    </ItemGroup>
+
+</Project>
