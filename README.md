@@ -2,6 +2,8 @@
 
 An extremely simple and fast .NET console drawing library, designed for creating TUI applications and games.
 
+![](https://github.com/oddbit-io/OddBit.FastConsole/blob/main/Oddbit.FastConsole.GameExample.gif)
+
 ## Why?
 
 System.Console methods in .NET are slow and inefficient for real-time applications like games or animated interfaces. FastConsole bypasses the overhead of standard console operations by using WinAPI directly.
